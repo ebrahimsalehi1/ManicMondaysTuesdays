@@ -1,0 +1,12 @@
+
+GET http://localhost:8080
+
+GET http://localhost:8080/app/chat
+
+GET http://localhost:8080/topic/message/1
+
+
+GET http://localhost:8081/ws
+
+ws://localhost:8080//chatroom/public
+
